@@ -13,6 +13,7 @@ Welcome to my academic portfolio for CEP146!
 - [ ] Complete all lab assignments
 - [ ] Build a professional portfolio
 - [ ] Collaborate on group projects
+- [ ] Learn markdown
 
 ## Projects
 *This section will be updated as I complete assignments*
