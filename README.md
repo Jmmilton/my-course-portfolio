@@ -4,7 +4,7 @@ Welcome to my academic portfolio for CEP146!
 
 ## About Me
 - Name: Jason Milton
-- Major: Diploma
+- Major: Computer Programming
 - Year: 2026
 - Favorite Programming Language: JavaScript
 
